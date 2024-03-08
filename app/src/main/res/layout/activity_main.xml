@@ -75,7 +75,7 @@
                     android:layout_gravity="center"
                     android:layout_margin="8dp"
                     android:fontFamily="sans-serif-black"
-                    android:text="Main Course"
+                    android:text="Main Meals"
                     android:textSize="18sp" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
